@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+}
+h4{
+    margin: 0;
+}
+h5{
+    margin: 0;
+}
+.container{
+    height: 120px;
+    background-color: blanchedalmond;
+}
+.first-box{
+    height: 80px;
+    background-color: white;
+    overflow: hidden;
+}
+.first-box-container{
+    height: 60px;
+    background-color: white;
+    margin: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.none{
+    display: flex;
+}
+.image-logo{
+    display: grid;
+    align-items: center;
+}
+.inner-first{
+    margin-left: 30px;
+    display: flex;
+    align-self: center;
+    gap: 30px;
+}
+.second-box{
+    height: 40px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.w3-logo{
+    width: 50px;
+}
+.inner-second{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-left: 20px;
+    gap: 15px;
+}
+.pro{
+    background-color: black;
+    width: 50px;
+    height: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+.Get-certified{
+    background-color: pink;
+    height: 40px;
+    width: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    
+}
+.create-website{
+    width: 120px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+}
+.sign-up{
+    background-color: green;
+    width: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    z-index: 1;
+}
+.log-in{
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -40px;
+
+}
+.left-head-texts{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    color: white;
+}
+.home-icon{
+    width: 30px;
+    color: white;
+}
+.elements-div:hover{
+    background-color: green; 
+    height: 40px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.toggle-button{
+    width: 60px;
+}
+.earth{
+    width: 20px;
+    color: white;
+}
+.search{
+    width: 20px;
+    color: white;
+}
+.right-head-logos{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-right: 50px;
+}
